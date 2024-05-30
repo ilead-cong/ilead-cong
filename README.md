@@ -4,7 +4,7 @@ This is cong wang, a bioinformatics analyst.
 
 ## About me
 
-I am a bioinformatics analyst, focusing on sequence design, three-dimensional genome, epigenetics and single-cell analysis
+I am a bioinformatics analyst, focusing on sequence design, three-dimensional genome, epigenetics and three-generation single-cell analysis
 
 ## Contact me
 
